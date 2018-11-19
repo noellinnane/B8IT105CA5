@@ -95,8 +95,3 @@ print(next(a))
 print(next(a))
 print(next(a))
 print(next(a))
-
-
-#Square Root List
-
-#Square Root Generator
